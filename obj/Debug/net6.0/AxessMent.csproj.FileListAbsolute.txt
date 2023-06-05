@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Test\AxessMent\bin\Debug\net6.0\AxessMent.exe
+C:\Users\USER\Desktop\Test\AxessMent\bin\Debug\net6.0\AxessMent.deps.json
+C:\Users\USER\Desktop\Test\AxessMent\bin\Debug\net6.0\AxessMent.runtimeconfig.json
+C:\Users\USER\Desktop\Test\AxessMent\bin\Debug\net6.0\AxessMent.dll
+C:\Users\USER\Desktop\Test\AxessMent\bin\Debug\net6.0\AxessMent.pdb
+C:\Users\USER\Desktop\Test\AxessMent\obj\Debug\net6.0\AxessMent.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Test\AxessMent\obj\Debug\net6.0\AxessMent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Test\AxessMent\obj\Debug\net6.0\AxessMent.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Test\AxessMent\obj\Debug\net6.0\AxessMent.AssemblyInfo.cs
+C:\Users\USER\Desktop\Test\AxessMent\obj\Debug\net6.0\AxessMent.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Test\AxessMent\obj\Debug\net6.0\AxessMent.dll
+C:\Users\USER\Desktop\Test\AxessMent\obj\Debug\net6.0\refint\AxessMent.dll
+C:\Users\USER\Desktop\Test\AxessMent\obj\Debug\net6.0\AxessMent.pdb
+C:\Users\USER\Desktop\Test\AxessMent\obj\Debug\net6.0\AxessMent.genruntimeconfig.cache
+C:\Users\USER\Desktop\Test\AxessMent\obj\Debug\net6.0\ref\AxessMent.dll
